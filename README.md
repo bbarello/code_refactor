@@ -5,7 +5,7 @@ Horiseon is an online marketing agency.
 ## Description
 
 ```
-Refactor of Horiseon.com to follow accessibility standards and optimized for search engines.
+Refactor of Horiseon.com to follow accessibility standards and optimization for search engines.
 
 ```
 
