@@ -14,5 +14,5 @@ Refactor of Horiseon.com to follow accessibility standards and optimized for sea
 ```
 - HTML
 - CSS
-- Ada Accessibility
+- ADA Accessibility
 - Search Engine Optimization(SEO)
